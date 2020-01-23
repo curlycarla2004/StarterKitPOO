@@ -12,7 +12,7 @@
     if (!empty($titre_page)) {
       echo $titre_page;
     } else {
-      echo 'Pierre, Feuille, Ciseaux';
+      echo 'Starterkit';
     }
     ?>
   </title>
