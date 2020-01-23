@@ -9,10 +9,9 @@
   <link rel="stylesheet" href="css/custom.css">
   <title>
     <?php
-    if(!empty($titre_page)){
+    if (!empty($titre_page)) {
       echo $titre_page;
-    }
-    else{
+    } else {
       echo 'Pierre, Feuille, Ciseaux';
     }
     ?>
