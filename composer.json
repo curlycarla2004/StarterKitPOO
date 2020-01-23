@@ -1,0 +1,14 @@
+{
+    "name": "wf3/poo-starterkit",
+    "authors": [
+        {
+            "name": "WF3"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wf3\\": "class/"
+        }
+    },
+    "require": {}
+}
